@@ -1,0 +1,24 @@
+:root {
+  --primary-color: #6c63ff;
+  --secondary-color: #f5f2fe;
+  --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.container {
+  margin-top: 80px;
+}
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+.button {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  justify-content: space-between;
+  padding: 20px;
+  margin: 20px;
+}
