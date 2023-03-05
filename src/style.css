@@ -105,4 +105,7 @@ p {
   h3 {
     font-size: 16px;
   }
+  .primary-link {
+    text-align: center;
+  }
 }
