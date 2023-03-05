@@ -35,9 +35,6 @@ p {
 }
 
 @media (max-width: 768px) {
-  img {
-    display: none;
-  }
   h1 {
     font-size: 32px;
   }
