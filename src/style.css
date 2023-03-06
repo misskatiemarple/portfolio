@@ -116,6 +116,7 @@ p {
   }
 
   .app-button {
+    display: block;
     text-align: center;
   }
 }
