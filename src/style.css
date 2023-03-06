@@ -96,6 +96,12 @@ p {
   padding-left: 80px;
 }
 @media (max-width: 768px) {
+  h1,
+  h2,
+  h3,
+  p {
+    text-align: center;
+  }
   h1 {
     font-size: 32px;
   }
@@ -105,7 +111,11 @@ p {
   h3 {
     font-size: 16px;
   }
-  .primary-link {
+  .app-name {
+    text-transform: capitalize;
+  }
+
+  .app-button {
     text-align: center;
   }
 }
